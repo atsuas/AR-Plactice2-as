@@ -67,3 +67,16 @@ crashlytics-build.properties
 *.tga
 *.asset
 *.wav
+*.plist
+*.storyboard
+*.h
+*.mm
+*.cpp
+*.c
+*.sh
+*.assets
+*.m
+*.a
+*.json
+*.xml
+*.dat
